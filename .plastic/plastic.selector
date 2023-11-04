@@ -1,0 +1,4 @@
+repository "Asteroids@PitbulldoRock@cloud"
+  path "/"
+    br "/main"
+    co "/main"
